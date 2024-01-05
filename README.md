@@ -1,16 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&random=false&width=435&lines=Nebula+%7C+Developer)](https://git.io/typing-svg)
+<img align="left" src="https://i.pinimg.com/originals/35/6f/b6/356fb6e766df967aec8696606cdaae53.png" width="147"/> 
 
-<!--
-**nebulal0l/nebulal0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+github.com/nebulal0l
+dc   $  @nebulas.lol
+web  $  https://nebulas.lol
+```
+&zwnj; 
+&zwnj; 
+![](https://komarev.com/ghpvc/?username=nebulal0l)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
