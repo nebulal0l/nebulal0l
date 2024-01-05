@@ -5,6 +5,7 @@
 github.com/nebulal0l
 dc   $  @nebulas.lol
 web  $  https://nebulas.lol
+guns  $  https://fraud.lol/sen
 ```
 &zwnj; 
 &zwnj; 
