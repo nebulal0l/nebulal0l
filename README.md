@@ -11,3 +11,4 @@ guns  $  https://fraud.lol/sen
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=nebulal0l)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1187458786496086068)](https://discord.com/users/1187458786496086068)
