@@ -9,6 +9,6 @@ guns  $  https://guns.lol/;3
 ```
 &zwnj; 
 &zwnj; 
-![boowoomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=boowoomp&show_icons=true&theme=radical)
+![boowoomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulal0l&show_icons=true&theme=radical)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1322389041030762538)](https://discord.com/users/1322389041030762538)
